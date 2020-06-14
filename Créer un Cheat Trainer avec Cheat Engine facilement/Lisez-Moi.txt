@@ -1,0 +1,3 @@
+Voici la Table qui vous permettra de réaliser le tutoriel de la vidéo "Créer un Cheat Trainer avec Cheat Engine facilement" !
+Téléchargez-puis importez la dans Cheat Engine, assurez-vous ensuite de bien lier Cheat Engine à Assault Cube.
+Bon courage !
